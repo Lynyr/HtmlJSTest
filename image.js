@@ -10,3 +10,4 @@ var imgs = [
 function choosePic() {
      var randomNum = Math.floor(Math.random() * imgs.length);
      document.getElementById("myPicture").src = imgs[randomNum];
+};
