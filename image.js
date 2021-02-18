@@ -4,4 +4,4 @@ var imgs = [
     "https://i.imgur.com/PU6tKcK.jpg",
     "https://i.imgur.com/QbUzipX.jpg"
     ];
-document.write (imgs[rand(0, sizeof($array)-1)]);
+document.write (imgs[1]);
