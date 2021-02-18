@@ -6,4 +6,4 @@
     "https://i.imgur.com/QbUzipX.jpg"
   ];
 ?>
-<img src = "<?php echo $array[rand(0, sizeof($array)-1)]>";
+<img src = "<?php echo $array[rand(0, sizeof($array)-1)];?>">
